@@ -1,0 +1,1062 @@
+,word,origin_type,source_language,original_word
+0,war,earlier,Frankish,werra
+1,trumpet,earlier,Occitan,tromba
+2,trousers,immediate,Gaelic (Scottish),triubhas
+3,tea,earlier,Min,tiä
+4,tattoo,immediate,Tahitian,tātau
+5,sugar cane,earlier,Hebrew,qāneh
+6,squash,immediate,Narragansett,asquutasquash
+7,silk,earlier,Mongolian,sirege
+8,rug,immediate,Norwegian,rugga
+9,rice,earlier,Tamil,arici
+10,raccoon,immediate,Algonquian (Powhatan),árehkan
+11,poncho,earlier,Mapudungun,punchu
+12,pepper,earlier,Sanskrit,pippah
+13,peg,immediate,Middle Dutch,pegge
+14,pan,immediate,Vulgar Latin,panna
+15,paddy,immediate,Malay,padi
+16,orange,earlier,Tamil,nāram
+17,opossum,immediate,Algonquian (Powhatan),opassom
+18,moose,immediate,Eastern Abenaki,mos
+19,mat,earlier,Phoenician,maţţa
+20,magic,earlier,Old Persian,maguš
+21,kangaroo,immediate,Guugu Yimidhirr,gaŋurru
+22,guard,earlier,Frankish,wardōn
+23,flute,earlier,Occitan,flaüt
+24,coyote,earlier,Nahuatl,coyotl
+25,clan,immediate,Gaelic (Scottish),clann
+26,chili (pepper),earlier,Nahuatl,chilli
+27,caribou,earlier,Mikmaq,qalipu
+28,camel,earlier,Proto-Semitic,gāmal
+29,brake,earlier,Middle Dutch,bracke
+30,boomerang,immediate,Dharuk,womurrang
+31,banyan,earlier,Sanskrit,vaņij
+32,banana,earlier,Wolof,banana
+33,bamboo,earlier,Kannada,banvu
+34,baby,immediate,Welsh,baban
+35,approach,earlier,Vulgar Latin,appropiāre
+36,adobe,earlier,Coptic,ţob
+37,(sea)gull,immediate,Welsh,gwylan
+38,toucan,immediate,Tupí,tucana
+39,tapir,immediate,Tupí,tapyra
+40,manioc,earlier,Tupí,manioka
+41,jaguar,immediate,Tupí,jaguara
+42,tobacco,earlier,Taino,tabako
+43,savanna,earlier,Taino,sabana
+44,potato,earlier,Taino,batata
+45,maize,earlier,Taino,mahis/mahici
+46,hammock,earlier,Taino,hamaka
+47,cassava,earlier,Taino,casavi
+48,canoe,earlier,Taino,kanawa
+49,zero,immediate,Spanish,cero
+50,tobacco,immediate,Spanish,tabaco
+51,savanna,immediate,Spanish,sabana
+52,potato,immediate,Spanish,patata
+53,poncho,immediate,Spanish,poncho
+54,mosquito,immediate,Spanish,mosquito
+55,maize,immediate,Spanish,maiz
+56,lasso,immediate,Spanish,lazo
+57,lagoon,immediate,Spanish,laguna
+58,hammock,immediate,Spanish,hamaca
+59,coyote,immediate,Spanish,coyote
+60,coconut,immediate,Spanish,coco
+61,cockroach,immediate,Spanish,cucaracha
+62,cigarette,earlier,Spanish,cigarro
+63,chili (pepper),immediate,Spanish,chile
+64,canoe,immediate,Spanish,canoa
+65,alligator,immediate,Spanish,el lagarto
+66,adobe,immediate,Spanish,adobar
+67,yam,immediate,Portuguese,inhame
+68,buffalo,immediate,Portuguese,búfalo
+69,banyan,immediate,Portuguese,banian
+70,banana,immediate,Portuguese,banana
+71,wing,immediate,Old Norse,vængir
+72,window,immediate,Old Norse,vindauga
+73,whirlpool,immediate,Old Norse,hvirfla
+74,want,immediate,Old Norse,vanta
+75,ugly,immediate,Old Norse,uggligr
+76,they,immediate,Old Norse,þeir
+77,take,immediate,Old Norse,taka
+78,sweep,immediate,Old Norse,svipa
+79,sky,immediate,Old Norse,ský
+80,skull,immediate,Old Norse,skoltr
+81,skirt,immediate,Old Norse,skyrta
+82,"skin, skin",immediate,Old Norse,skinn
+83,sister,immediate,Old Norse,systir
+84,shriek,immediate,Old Norse,skrækja
+85,seem,immediate,Old Norse,séma
+86,scrape,immediate,Old Norse,skrapa
+87,scold,immediate,Old Norse,skáldr
+88,same,immediate,Old Norse,sámr
+89,rotten,immediate,Old Norse,rotinn
+90,reindeer,immediate,Old Norse,hreinndýri
+91,raise,immediate,Old Norse,reisa
+92,rag,immediate,Old Norse,ragg
+93,raft,immediate,Old Norse,raptr
+94,netbag,immediate,Old Norse,baggi
+95,mistake,immediate,Old Norse,taka
+96,"low, low tide",immediate,Old Norse,lágr
+97,lift,immediate,Old Norse,lypta
+98,leg,immediate,Old Norse,legg-r
+99,law,immediate,Old Norse,lagu
+100,"knife, knife",immediate,Old Norse,knifr
+101,ill,immediate,Old Norse,illr
+102,husband,immediate,Old Norse,húsbondi
+103,hit,immediate,Old Norse,hitta
+104,happy,immediate,Old Norse,happ
+105,gun,immediate,Old Norse,Gunhild
+106,give,immediate,Old Norse,giva
+107,gill,immediate,Old Norse,gil
+108,get,immediate,Old Norse,geta
+109,flat,immediate,Old Norse,flatr
+110,egg,immediate,Old Norse,egg
+111,dirty,immediate,Old Norse,drit
+112,die,immediate,Old Norse,deyja
+113,cut,immediate,Old Norse,kuta
+114,crooked,immediate,Old Norse,krókr
+115,crawl,immediate,Old Norse,krafla
+116,club,immediate,Old Norse,"klubba, klumba"
+117,cast,immediate,Old Norse,kasta
+118,cart,immediate,Old Norse,kartr
+119,call (2),earlier,Old Norse,kalla
+120,call (1),immediate,Old Norse,kalla
+121,calf,immediate,Old Norse,kálfi
+122,bark,immediate,Old Norse,börkr
+123,ball,immediate,Old Norse,böllr
+124,bait,immediate,Old Norse,beita
+125,bag,immediate,Old Norse,baggi
+126,anger,immediate,Old Norse,angr
+127,Thursday,immediate,Old Norse,Thórsdagr
+128,wine,immediate,Latin,vīnum
+129,wall,immediate,Latin,vallum
+130,vulva,immediate,Latin,vulva
+131,vulture,earlier,Latin,vultur
+132,vomit,immediate,Latin,vomitus
+133,voice,earlier,Latin,"vo-x, -cem"
+134,vine,earlier,Latin,vīnea
+135,village,earlier,Latin,villāticum
+136,victory,earlier,Latin,victōria
+137,vein,earlier,Latin,vēna
+138,veil,earlier,Latin,vēlum
+139,vegetables,earlier,Latin,vegetābilis
+140,valley,earlier,Latin,vallēs
+141,vagina,immediate,Latin,vagina
+142,urinate,immediate,Latin,ūrināre
+143,uncle,earlier,Latin,avunculus
+144,turtle,earlier,Latin,tortūca
+145,turn around,earlier,Latin,rotundus
+146,turn,immediate,Latin,tornāre
+147,tree trunk,earlier,Latin,truncus
+148,tower,immediate,Latin,turris
+149,torch,earlier,Latin,torca
+150,toilet,earlier,Latin,tēla
+151,testicles,immediate,Latin,"testis, testiculus"
+152,termite,immediate,Latin,"term-es, -item"
+153,tent,earlier,Latin,tenta
+154,tendon,immediate,Latin,"tendō, -nem"
+155,temple,immediate,Latin,templum
+156,tax,earlier,Latin,taxāre
+157,tan,immediate,Latin,tannāre
+158,tailor,earlier,Latin,tāliātōr
+159,table,immediate,Latin,tabula
+160,suspect,immediate,Latin,suspicere
+161,surprised,earlier,Latin,super prēndere
+162,sure,earlier,Latin,secūrus
+163,stupid,immediate,Latin,stupidus
+164,study,earlier,Latin,studium
+165,street,immediate,Latin,(via) strāta
+166,stranger,earlier,Latin,extrāneārius
+167,strain,earlier,Latin,stringere
+168,store,earlier,Latin,instaurāre
+169,stay,earlier,Latin,stāre
+170,statue,immediate,Latin,statua
+171,stable,earlier,Latin,stabulum
+172,spirit,earlier,Latin,spiritus
+173,spine,earlier,Latin,spīna
+174,sound,earlier,Latin,sonus
+175,soil,earlier,Latin,solum
+176,sock,immediate,Latin,soccus
+177,slave,earlier,Latin,sclavus
+178,similar,earlier,Latin,similāris
+179,silk,immediate,Latin,sēricus
+180,sickle,immediate,Latin,secula
+181,servant,earlier,Latin,servīre
+182,separate,immediate,Latin,sēparāre
+183,secret,earlier,Latin,sēcrētum
+184,second,earlier,Latin,secundus
+185,season,earlier,Latin,"satiō, -nem"
+186,sculptor,immediate,Latin,sculptor
+187,school,immediate,Latin,schola
+188,sacrifice,earlier,Latin,sacrificium
+189,round,earlier,Latin,rotundus
+190,roll,earlier,Latin,rotulāre
+191,river,earlier,Latin,ripuārius
+192,ridgepole,immediate,Latin,pālus
+193,retreat,earlier,Latin,rētrahere
+194,rescue,earlier,Latin,re-excūtere
+195,reply,earlier,Latin,rēplicāre
+196,remember,earlier,Latin,rēmemorārī
+197,"remain, remains",earlier,Latin,remanēre
+198,religion,earlier,Latin,"religiō, -nem"
+199,relative,immediate,Latin,relatif
+200,relative,earlier,Latin,relatīvus
+201,refuse,earlier,Latin,refūsāre
+202,razor,earlier,Latin,rāsāre
+203,rape,earlier,Latin,rapīna
+204,radio,immediate,Latin,radius
+205,quiet,earlier,Latin,quiētus
+206,quarrel,earlier,Latin,querella
+207,push,earlier,Latin,pulsāre
+208,pus,immediate,Latin,pūs
+209,pursue,earlier,Latin,persequī
+210,pupil,earlier,Latin,pũpillus
+211,punishment,earlier,Latin,punīre
+212,pubic hair,immediate,Latin,pūbēs
+213,proud,earlier,Latin,prōdis
+214,prostitute,immediate,Latin,prōstitūta
+215,promise,earlier,Latin,promittere
+216,prison,earlier,Latin,"prehensiō, -nem"
+217,priest,immediate,Latin,presbyter
+218,price,earlier,Latin,pretium
+219,prevent,immediate,Latin,praevenīre
+220,press,earlier,Latin,pressāre
+221,president,earlier,Latin,"praesiden-s, -tis"
+222,pregnant,immediate,Latin,"praegnan-s, -tem"
+223,precipice,earlier,Latin,praecipitium
+224,preach,earlier,Latin,praedicâre
+225,pray,earlier,Latin,prēcārī
+226,poultry,earlier,Latin,pullus
+227,potter,immediate,Latin,pottus
+228,pot,earlier,Latin,pottus
+229,post,immediate,Latin,posta
+230,post,earlier,Latin,posita
+231,port,immediate,Latin,porta
+232,porpoise,earlier,Latin,porcus piscis
+233,poor,earlier,Latin,pauper
+234,poison,earlier,Latin,"potiō, -nem"
+235,pointed,earlier,Latin,punctum
+236,plot,earlier,Latin,plattus
+237,plant,immediate,Latin,planta
+238,plant,immediate,Latin,plantare
+239,plaintiff,earlier,Latin,planctus
+240,plain,earlier,Latin,plānus
+241,place,immediate,Latin,platea
+242,pity,earlier,Latin,"pietā-s, -tem"
+243,pine,immediate,Latin,pīnus
+244,pin,immediate,Latin,pinna
+245,pillow,immediate,Latin,pulvīnus
+246,pill,earlier,Latin,pilula
+247,pile up,earlier,Latin,pīla
+248,pestle,earlier,Latin,pistillum
+249,perjury,earlier,Latin,periūrium
+250,pepper,immediate,Latin,piper
+251,people,earlier,Latin,populus
+252,penis,immediate,Latin,pēnis
+253,pen,immediate,Latin,penna
+254,peel,immediate,Latin,pilāre
+255,peace,earlier,Latin,"pax, -cem"
+256,pay,earlier,Latin,pācāre
+257,pasture,earlier,Latin,pastura
+258,part,immediate,Latin,"par-s, -tem"
+259,parent,earlier,Latin,"paren-s, -tem"
+260,pardon,earlier,Latin,perdonāre
+261,"palm, palm","immediate, earlier",Latin,palma
+262,pair,earlier,Latin,par
+263,"paint, paint",earlier,Latin,pingere
+264,orphan,immediate,Latin,orphanus
+265,ornament,earlier,Latin,ōrnāmentum
+266,order,earlier,Latin,"ordināre; ordō, -nem"
+267,omen,immediate,Latin,ōmen
+268,olive,immediate,Latin,olīva
+269,ointment,earlier,Latin,unguere
+270,oil,immediate,Latin,oleum
+271,obscure,earlier,Latin,obscūrus
+272,obey,earlier,Latin,obædīre < ob-audīre
+273,nurse,earlier,Latin,nūtrīcia
+274,number,earlier,Latin,numerus
+275,noon,immediate,Latin,nōna
+276,noble,earlier,Latin,nōbilis
+277,nephew,earlier,Latin,"nepō-s, -tem"
+278,necklace,earlier,Latin,laqueus
+279,necessity,earlier,Latin,"necessi-tās, -tātem"
+280,mute,earlier,Latin,mūtus
+281,mule,earlier,Latin,mūlus
+282,move,earlier,Latin,movēre
+283,mountain,earlier,Latin,mons; montānus
+284,mould,earlier,Latin,modulus
+285,motor,immediate,Latin,motor
+286,"mortar, mortar",earlier,Latin,mortarium
+287,money,earlier,Latin,monēta
+288,molar (tooth),immediate,Latin,molaris
+289,mix,earlier,Latin,miscere
+290,mirror,earlier,Latin,mīrārī
+291,minister,earlier,Latin,minister
+292,millet,earlier,Latin,milium
+293,merchant,earlier,Latin,mercārī
+294,medicine,earlier,Latin,medicīna
+295,master,immediate,Latin,magister
+296,marry,earlier,Latin,maritāre
+297,market,immediate,Latin,mercātus
+298,manner,earlier,Latin,manuārius
+299,"male, male",earlier,Latin,masculus
+300,lizard,earlier,Latin,lacertus
+301,lion,immediate,Latin,leō
+302,line,earlier,Latin,līnea
+303,liberate,immediate,Latin,liberāre
+304,letter,earlier,Latin,litterae
+305,lasso,earlier,Latin,laqueus
+306,language,earlier,Latin,lingua
+307,lake,earlier,Latin,lacus
+308,lagoon,earlier,Latin,lacūna
+309,kitchen,immediate,Latin,cocīna
+310,kettle,immediate,Latin,catillus
+311,judgment,earlier,Latin,iūdicāmentum
+312,judge,earlier,Latin,iūdex
+313,join,earlier,Latin,iungere
+314,invite,earlier,Latin,invītāre
+315,intestines,immediate,Latin,intestīnum
+316,intention,earlier,Latin,intendere
+317,insect,immediate,Latin,insectum
+318,innocent,immediate,Latin,"innocen-s, -tem"
+319,injure,earlier,Latin,iniūria
+320,injection,immediate,Latin,"iniectiō, iniicere"
+321,in front of,earlier,Latin,"frōns, frontis"
+322,immediately,immediate,Latin,immediātus
+323,imitate,immediate,Latin,imitārī
+324,idea,immediate,Latin,idea
+325,host,earlier,Latin,hospes
+326,hospital,immediate,Latin,hospitāle
+327,"handkerchief, hankie",earlier,Latin,cooperīre + caput
+328,grief,earlier,Latin,grevāre
+329,grease,earlier,Latin,crassus
+330,grandson,earlier,Latin,grandis
+331,grandparent,immediate,Latin,grandis + parens
+333,grain,earlier,Latin,grānum
+334,gourd,earlier,Latin,cucurbita
+335,goitre,earlier,Latin,guttur
+336,glue,earlier,Latin,glūten
+337,fry,earlier,Latin,frigere
+338,fruit,earlier,Latin,fructus
+339,fragrant,immediate,Latin,"fragran-s, -tem"
+340,fortress,earlier,Latin,fortaritia
+341,fork,immediate,Latin,furca
+342,forge,earlier,Latin,fabrica
+343,forest,earlier,Latin,forestis
+344,footprint,earlier,Latin,premere
+345,"flour, flower",earlier,Latin,"flō-s, -rem"
+346,flame,earlier,Latin,flamma
+347,finish,earlier,Latin,finīre
+348,fine,earlier,Latin,finis
+349,fig,earlier,Latin,ficus
+350,fever,earlier,Latin,febris
+351,fence,earlier,Latin,dēfendere
+352,"female, female",earlier,Latin,fēmella
+353,farmer,earlier,Latin,firmārius
+354,"fan, fan",immediate,Latin,vannus
+355,famine,earlier,Latin,fāmēs
+356,family,immediate,Latin,familia
+357,falsity,earlier,Latin,falsus
+358,faithful,earlier,Latin,fidēs
+359,fairy,earlier,Latin,fāta
+360,face,earlier,Latin,faciēs
+361,extinguish,immediate,Latin,extinguere
+362,explain,immediate,Latin,explānāre
+363,envy,earlier,Latin,invidia
+364,enter,earlier,Latin,intrāre
+365,enemy,earlier,Latin,inimicus
+366,election,earlier,Latin,eligere
+367,earlobe,immediate,Latin,lobus
+368,eagle,earlier,Latin,aquila
+369,driving licence,earlier,Latin,licentia
+370,doubt,earlier,Latin,dubium
+371,doorpost,earlier,Latin,posita
+372,dolphin,earlier,Latin,delphīnus
+373,doctor,earlier,Latin,doctor
+374,divorce,earlier,Latin,divortiāre
+375,divide,immediate,Latin,dīvidere
+376,dish,immediate,Latin,discus
+377,difficult,immediate,Latin,difficilis
+378,devil,immediate,Latin,diabolus
+379,descendant,earlier,Latin,"descēnden-s, -tem"
+380,deny,earlier,Latin,negāre
+381,demon,immediate,Latin,daemōn
+382,"defend, defendant",earlier,Latin,dēfendere
+383,defecate,immediate,Latin,dēfaecāre
+384,defeat,earlier,Latin,disfacere
+385,deceit,earlier,Latin,dēcipere
+386,debt,earlier,Latin,debitum; dēbēre
+387,danger,earlier,Latin,domniārium
+388,damage,earlier,Latin,damnum
+389,custom,earlier,Latin,consuetũdō
+390,cure,earlier,Latin,cūráre
+391,cup,immediate,Latin,"cuppa (Vulgar), cūpa (Classical)"
+392,cultivate,immediate,Latin,cultivāre
+393,cry,earlier,Latin,quirītāre
+394,crush,earlier,Latin,cruscīre
+395,cross,immediate,Latin,crux
+396,crime,earlier,Latin,crīmen
+397,cover,earlier,Latin,cooperīre
+398,cousin,earlier,Latin,consobrīnus
+399,court,earlier,Latin,"cohor-s, -tem"
+400,country,earlier,Latin,contrāta (terra)
+401,count,earlier,Latin,computāre
+402,corpse,earlier,Latin,corpus
+403,cormorant,earlier,Latin,corvus marīnus
+404,copulate,immediate,Latin,copulāre
+405,copper,immediate,Latin,cuprum
+406,"cook, cooked",immediate,Latin,coquere
+407,convict,earlier,Latin,convincere
+408,cone,immediate,Latin,conus
+409,condemn,earlier,Latin,condemnāre
+410,conceive,earlier,Latin,concipere
+411,command,earlier,Latin,commandāre
+412,colour,earlier,Latin,color
+413,collect,earlier,Latin,colligere
+414,collar,earlier,Latin,collāre
+415,coin,earlier,Latin,cuneus
+416,cock,earlier,Latin,coccus
+417,close,earlier,Latin,claudere
+418,clear,earlier,Latin,clārus
+419,clan,earlier,Latin,planta
+420,city,earlier,Latin,"cīvi-tās, -tātem"
+421,citrus,immediate,Latin,citrus
+422,circumcision,immediate,Latin,circumcīdere
+423,circle,immediate,Latin,circulus
+424,chieftain,earlier,Latin,capitānus
+425,chest,immediate,Latin,cista
+426,cheese,immediate,Latin,cāseus
+427,cheap,immediate,Latin,caupō
+428,change,earlier,Latin,cambiāre
+429,chameleon,immediate,Latin,chamaeleon
+430,chain,earlier,Latin,catēna
+431,certain,earlier,Latin,certānus
+432,centipede,immediate,Latin,centipeda
+433,cease,earlier,Latin,cessāre
+434,cave,earlier,Latin,cāva
+435,cause,earlier,Latin,causa
+436,cattle,earlier,Latin,capitāle
+437,catch,earlier,Latin,captiāre
+438,castle,earlier,Latin,castellum
+439,carpet,earlier,Latin,carpita
+440,captive,earlier,Latin,captīvus
+441,cape,earlier,Latin,caput
+442,cap,immediate,Latin,cappa
+443,candle,immediate,Latin,candella
+444,camp,immediate,Latin,campus
+445,camel,immediate,Latin,camēlus
+446,calendar,earlier,Latin,calendae
+447,butter,immediate,Latin,butyrum
+448,bus,immediate,Latin,omnibus
+449,buffalo,earlier,Latin,būfalus
+450,brush,earlier,Latin,bruscum
+451,branch,earlier,Latin,branca
+452,bracelet,earlier,Latin,bracchiāle
+453,bottle,earlier,Latin,buttis
+454,boil,earlier,Latin,bullire
+455,birth certificate,earlier,Latin,certificātum
+456,bill,earlier,Latin,bulla
+457,betray,earlier,Latin,tradere
+458,belt,immediate,Latin,balteus
+459,because,immediate,Latin,"causa, earlier caussa"
+460,beak,earlier,Latin,beccus
+461,bay,earlier,Latin,baia
+462,battery,earlier,Latin,battuere
+463,autumn,earlier,Latin,autumnus
+464,aunt,earlier,Latin,amita
+465,artery,immediate,Latin,artēria
+466,arson,earlier,Latin,"arsiō, -nem"
+467,arrive,earlier,Latin,adrīpāre
+468,army,earlier,Latin,armāta
+469,armpit,immediate,Latin,put(t)eus
+470,arch,earlier,Latin,arcum
+471,anxiety,immediate,Latin,"anxietā-s, -tem"
+472,announce,earlier,Latin,annunciāre
+473,animal,immediate,Latin,animālis
+474,anchor,immediate,Latin,anchora
+475,ancestor,earlier,Latin,"antecēssor, -em"
+476,altar,immediate,Latin,altāre
+477,allow,earlier,Latin,"allocāre, allaudāre"
+478,age,earlier,Latin,aevum
+479,aeroplane,immediate,Latin,aēr + plānus
+480,adultery,earlier,Latin,adulter
+481,admit,earlier,Latin,admittere
+482,adjudicate,immediate,Latin,adiudicāre
+483,address,earlier,Latin,ad + dīrectus
+484,acquit,earlier,Latin,acquitāre
+485,accuse,earlier,Latin,accusare
+486,Saturday,immediate,Latin,Saturnus
+487,(sting)ray,earlier,Latin,raia
+488,(be) silent,immediate,Latin,"silen-s, -tem"
+489,try,earlier,Late Latin,triāre
+490,train,earlier,Late Latin,tragināre
+491,touch,earlier,Late Latin,toccāre
+492,temple(s),earlier,Late Latin,tempula
+493,taste,earlier,Late Latin,tastāre
+494,tablet,earlier,Late Latin,tabuleta
+495,square,earlier,Late Latin,exquadra
+496,sorcerer,earlier,Late Latin,sortiārius
+497,soldier,earlier,Late Latin,solidārius
+498,scissors,earlier,Late Latin,cīsōria (Pl; unattested)
+499,sausage,earlier,Late Latin,salsīcia
+500,saucer,earlier,Late Latin,salsārium
+501,rule,earlier,Late Latin,rēgulāre
+502,return,earlier,Late Latin,re-tornāre
+503,quail,earlier,Late Latin,quacula/coacula
+504,preserve,earlier,Late Latin,praeservāre
+505,praise,earlier,Late Latin,pretiāre
+506,plate,earlier,Late Latin,plattus
+507,plait,earlier,Late Latin,plictum
+508,pipe,immediate,Late Latin,pīpa
+509,pinch,earlier,Late Latin,pinctiāre
+510,piece,earlier,Late Latin,pecia
+511,petrol(eum),immediate,Late Latin,petroleum
+512,paddle,immediate,Late Latin,padela
+513,niece,earlier,Late Latin,neptia
+514,mushroom,earlier,Late Latin,mussirio
+515,mill,immediate,Late Latin,molīna
+516,measure,earlier,Late Latin,mēnsūrāre
+517,mat,immediate,Late Latin,matta
+518,mason,earlier,Late Latin,"matiō, -nem"
+519,latch,earlier,Late Latin,lacium
+520,jewel,earlier,Late Latin,gaudiellum
+521,fault,earlier,Late Latin,fallita
+522,expensive,immediate,Late Latin,expensīvus
+523,embrace,earlier,Late Latin,imbracchiāre
+524,electricity,immediate,Late Latin,ēlectricus
+525,easy,earlier,Late Latin,ad-asium
+526,dress,earlier,Late Latin,dīrectiāre
+527,disease,earlier,Late Latin,dis-asia
+528,dinner,earlier,Late Latin,disjūnāre
+529,destroy,earlier,Late Latin,dēstrūgere
+530,corner,earlier,Late Latin,cornerium
+531,"cloak, clock",earlier,Late Latin,clocca
+532,citizen,earlier,Late Latin,cīvitātānus
+533,chisel,earlier,Late Latin,cisellium
+534,chimney,earlier,Late Latin,caminata
+535,chase,earlier,Late Latin,captiāre
+536,carpenter,earlier,Late Latin,carpentārius
+537,button,earlier,Late Latin,bottāre
+538,beautiful,earlier,Late Latin,"bellitā-s, -tis"
+539,"battle, battle-axe","immediate, earlier",Late Latin,battuālia
+540,astonished,earlier,Late Latin,ex-tonāre
+541,armour,earlier,Late Latin,armātūra
+542,ambush,earlier,Late Latin,imboscāre
+543,plastic,immediate,Italian,plastica
+544,carcass,earlier,Italian,carcassa
+545,brave,earlier,Italian,bravo
+546,attack,earlier,Italian,attaccare
+547,wine,earlier,Greek,(w)oînos
+548,tendon,earlier,Greek,tēnōn
+549,television,immediate,Greek,tēle
+550,telephone,immediate,Greek,tēle + phōnē
+551,stomach,earlier,Greek,stómakhos
+552,squirrel,earlier,Greek,skíouros
+553,spleen,earlier,Greek,splēn
+554,scorpion,earlier,Greek,skorpios
+555,school,earlier,Greek,skholē
+556,scar,earlier,Greek,eskhárā
+557,pumpkin,earlier,Greek,pépōn
+558,priest,earlier,Greek,presbúteros
+559,postcard,earlier,Greek,khártēs
+560,police,earlier,Greek,pólis
+561,poet,earlier,Greek,poiētēs
+562,plastic,earlier,Greek,plássein
+563,place,earlier,Greek,plateía
+564,person,earlier,Greek,prósōpon
+565,paper,earlier,Greek,pápūros
+566,pan,earlier,Greek,patánē
+567,pain,earlier,Greek,poinē
+568,orphan,earlier,Greek,orphanós
+569,olive,earlier,Greek,elaiá
+570,ocean,earlier,Greek,okeanos
+571,music,earlier,Greek,mousikē
+572,motorcycle,immediate,Greek,kúklos
+573,match,earlier,Greek,múxā
+574,machine,earlier,Greek,mēkhanḗ
+575,lion,earlier,Greek,leōn
+576,lamp,earlier,Greek,"lampá-s, -dos"
+577,jealous,earlier,Greek,zēlos
+578,idol,earlier,Greek,eidōlon
+579,idea,earlier,Greek,idéā
+580,hour,earlier,Greek,hōra
+581,"govern, government",earlier,Greek,kubernān
+582,elephant,earlier,Greek,"elépha-s, -ntos"
+583,electricity,earlier,Greek,ēlektron
+584,earlobe,earlier,Greek,lobos
+585,dish,earlier,Greek,dískos
+586,devil,earlier,Greek,diábolos
+587,demon,earlier,Greek,daímōn
+588,crocodile,earlier,Greek,krokódeilos
+589,copper,earlier,Greek,kyprion
+590,cone,earlier,Greek,kōnos
+591,citrus,earlier,Greek,kítron
+592,church,immediate,Greek,kuriakon
+593,chest,earlier,Greek,kistē
+594,chameleon,earlier,Greek,khamailéōn
+595,chair,earlier,Greek,kathédra
+596,calm,earlier,Greek,kaúma
+597,butter,earlier,Greek,boútūron
+598,bomb,earlier,Greek,bómbos
+599,blame,earlier,Greek,blasphēmein
+600,"bicycle, bike",immediate,Greek,kúklos
+601,artery,earlier,Greek,artēria
+602,anchor,earlier,Greek,ánkūra
+603,air,earlier,Greek,aēr
+604,wages,earlier,Germanic,wadjam
+605,trade,immediate,Middle Low German,trade
+606,towel,earlier,Germanic,thwaxljō
+607,swamp,immediate,Middle Low German,swampen
+608,supper,earlier,Germanic,supian
+609,stallion,earlier,Germanic,stallo
+610,split,immediate,Middle Low German,splitten
+611,soup,earlier,Germanic,supian
+612,smile,immediate,Middle Low German,smīlen
+613,sling,immediate,Middle Low German,slinge
+614,sledge,immediate,Middle Low German,slede
+615,shrimp,immediate,Middle High German,schrimpen
+616,shore,immediate,Middle Low German,schôre
+617,shop,earlier,Middle Low German,schoppen
+618,shelf,immediate,Middle Low German,schelf
+619,scale,earlier,Germanic,skaljā
+620,rub,immediate,Middle Low German,rubben
+621,roast,earlier,West Germanic,raustjan
+622,reef,immediate,Middle Low German,riffe
+623,pitchfork,earlier,Germanic,pikka
+624,pill,immediate,Middle Low German,pille
+625,mumble,immediate,Middle Low German,mummelen
+626,lazy,immediate,Middle Low German,lasich
+627,hut,earlier,Proto-Germanic,hudjā
+628,heron,earlier,Proto-Germanic,xaigaran
+629,headband,earlier,Germanic,bindōn
+630,grape,earlier,Germanic,krappōn
+631,garden,earlier,Proto-Germanic,gardan-
+632,dance,earlier,Germanic,dansōn
+633,brick,earlier,Middle Low German,bricke
+634,brackish,immediate,Middle Low German,brak
+635,booty,earlier,German,Beute
+636,blue,earlier,Germanic,blǽwaz
+637,blanket,earlier,Germanic,blank
+638,bat,immediate,Middle North Germanic,bakka
+639,bank,earlier,Germanic,bank-
+640,war,immediate,French (Anglo-Norman),guerre
+641,wages,immediate,French (Anglo-Norman),wage
+642,vulture,immediate,Old French,vultur
+643,voice,immediate,French (Anglo-Norman),voiz
+644,vine,immediate,French,vigne
+645,village,immediate,French,village
+646,victory,immediate,Old French,victorie
+647,vein,immediate,French,veine
+648,veil,immediate,French (Anglo-Norman),veile
+649,vegetables,immediate,French,végétable
+650,valley,immediate,French,vallée
+651,uncle,immediate,French,oncle
+652,turtle,immediate,French,tortue
+653,turn around,immediate,French,rond
+654,try,immediate,French,trier
+655,trumpet,immediate,French,trompette
+656,tree trunk,immediate,French,tronc
+657,train,immediate,French,train
+658,towel,immediate,French (Anglo-Norman),toaile
+659,touch,immediate,French,toucher
+660,torch,immediate,French,torche
+661,toilet,immediate,French,toilette
+662,tent,immediate,French,tente
+663,temple(s),immediate,Middle French,temple
+664,tax,immediate,French (Anglo-Norman),taxe
+665,taste,immediate,Old French,taster
+666,tailor,immediate,French,tailleur
+667,tablet,immediate,French (Anglo-Norman),tablete
+668,surrender,immediate,French,surrendre
+669,surprised,immediate,French,surpris
+670,sure,immediate,French (Anglo-Norman),sur
+671,supper,immediate,Old French,super
+672,sugar cane,immediate,French (Anglo-Norman),cane
+673,sugar,immediate,Old French,zuchre
+674,study,immediate,French (Anglo-Norman),estudier
+675,stranger,immediate,Old French,estrangier
+676,strain,immediate,French (Anglo-Norman),estreindre
+677,store,immediate,French (Anglo-Norman),estorer
+678,stomach,immediate,French,estomac
+679,stay,immediate,French (Anglo-Norman),estaier
+680,stallion,immediate,Old French,estalon
+681,stable,immediate,French (Anglo-Norman),estable
+682,squirrel,immediate,Old French,esquirel
+683,square,immediate,French (Anglo-Norman),esquire
+684,spleen,immediate,Middle French,esplen
+685,spirit,immediate,French (Anglo-Norman),spirit
+686,spine,immediate,Middle French,espine
+687,soup,immediate,French,soupe
+688,sound,immediate,French,son
+689,sorcerer,immediate,Middle French,sorcier
+690,soldier,immediate,Old French,soldier
+691,soil,immediate,French,seuil
+692,slave,immediate,French,esclave
+693,similar,immediate,French,similaire
+694,shop,immediate,French (Anglo-Norman),eschoppe
+695,servant,immediate,French (Anglo-Norman),servant
+696,secret,immediate,French (Anglo-Norman),secré
+697,second,immediate,French,second
+698,season,immediate,Old French,seson
+699,screw,immediate,Old French,escroue
+700,scorpion,immediate,French,scorpion
+701,scissors,immediate,Old French,cisoirs
+702,scar,immediate,Middle French,eacare
+703,scale,immediate,Middle French,escale
+704,sausage,immediate,Old French,saussiche
+705,saucer,immediate,Old French,saussier
+706,sacrifice,immediate,French,sacrifice
+707,rule,immediate,French (Anglo-Norman),riule
+708,round,immediate,French,rond
+709,roll,immediate,French,rouler
+710,rock,immediate,French (Anglo-Norman),"roque, rocque, roche"
+711,roast,immediate,Old French,rostir
+712,river,immediate,French (Anglo-Norman),river
+713,rice,immediate,French,riz
+714,return,immediate,French (Anglo-Norman),retourner
+715,retreat,immediate,Old French,retraire
+716,rescue,immediate,French (Anglo-Norman),rescoure
+717,reply,immediate,French,replier
+718,remember,immediate,French (Anglo-Norman),remembrer
+719,remains,immediate,French (Anglo-Norman),remanoir
+720,remain,immediate,French (Anglo-Norman),remayn-
+721,religion,immediate,French (Anglo-Norman),religiun
+722,regret,immediate,French,regretter
+723,refuse,immediate,French,refuser
+724,razor,immediate,French (Anglo-Norman),razor
+725,rape,immediate,French (Anglo-Norman),rape
+726,rabbit,immediate,French (Walloon),robett
+727,quiet,immediate,French (Anglo-Norman),quiete
+728,quarrel,immediate,Old French,querele
+729,quail,immediate,Old French,quaille
+730,push,immediate,French,pousser
+731,pursue,immediate,French,poursuivre
+732,pupil,immediate,Old French,pupille
+733,punishment,immediate,French (Anglo-Norman),punisement
+734,punishment,immediate,French (Anglo-Norman),punisement
+735,pumpkin,immediate,French,pompion
+736,proud,immediate,French (Anglo-Norman),prũt
+737,promise,immediate,French,promettre
+738,prisoner,immediate,Old French,prisonier
+739,prison,immediate,French (Anglo-Norman),prisun
+740,price,immediate,French (Anglo-Norman),pris
+741,press,immediate,French,presser
+742,president,immediate,French (Anglo-Norman),president
+743,preserve,immediate,French,préserver
+744,precipice,immediate,French,precipice
+745,preach,immediate,French (Anglo-Norman),prechier
+746,pray,immediate,French,prier
+747,praise,immediate,French (Anglo-Norman),preisier
+748,poultry,immediate,French,pouleterie
+749,pot,immediate,French,pot
+750,postcard,immediate,French,carte
+751,post,immediate,French,poste
+752,porpoise,immediate,French (Anglo-Norman),porpois
+753,poor,immediate,French (Anglo-Norman),povre
+754,police,immediate,French,police
+755,poison,immediate,French,poison
+756,pointed,immediate,French,point
+757,poet,immediate,French,poète
+758,pocket,immediate,French (Anglo-Norman),pokete
+759,plot,immediate,French,plat
+760,plate,immediate,French (Anglo-Norman),plat
+761,plait,immediate,French (Anglo-Norman),pleit
+762,plaintiff,immediate,French (Anglo-Norman),plaintif
+763,plain,immediate,French,plain
+764,pity,immediate,French (Anglo-Norman),pite
+765,pitchfork,immediate,French,pic
+766,piss,immediate,French,pisser
+767,pinch,immediate,French (Anglo-Norman),pinchier
+768,pile up,immediate,French,pile
+769,piece,immediate,French (Anglo-Norman),peece
+770,pestle,immediate,Old French,pestel
+771,person,immediate,Middle French,persone
+772,perjury,immediate,French (Anglo-Norman),perjurie
+773,people,immediate,French (Anglo-Norman),people
+774,peace,immediate,French (Anglo-Norman),pes
+775,pay,immediate,French (Anglo-Norman),paier
+776,pasture,immediate,French (Anglo-Norman),pastour
+777,parent,immediate,French,parent
+778,pardon,immediate,French,pardonner
+779,paper,immediate,French (Anglo-Norman),papir
+780,palm,immediate,French,paume
+781,pair,immediate,French (Anglo-Norman),paire
+782,paint,immediate,French (Anglo-Norman),peint
+783,paint,immediate,French (Anglo-Norman),peindre
+784,pain,immediate,French,peine
+785,ornament,immediate,French (Anglo-Norman),ornament
+786,order,immediate,French,ordonner
+787,orange,immediate,French (Anglo-Norman),orenge
+788,ointment,immediate,French (Anglo-Norman),oinement
+789,ocean,immediate,Middle French,ocean
+790,obscure,immediate,Old French,oscur
+791,obey,immediate,French,obéir
+792,nurse,immediate,French (Anglo-Norman),nourice
+793,number,immediate,French,nombre
+794,noble,immediate,French (Anglo-Norman),noble
+795,niece,immediate,French (Anglo-Norman),nice
+796,nephew,immediate,French,neveu
+797,necklace,immediate,French (Anglo-Norman),laz
+798,necessity,immediate,French (Anglo-Norman),necessite
+799,mute,immediate,French,muet
+800,music,immediate,French (Anglo-Norman),musique
+801,mushroom,immediate,French (Anglo-Norman),muserun
+802,mule,immediate,French (Anglo-Norman),mul
+803,move,immediate,French (Anglo-Norman),mover
+804,mountain,immediate,French,montagne
+805,mould,immediate,French (Anglo-Norman),modle
+806,mosque,immediate,Middle French,meseache
+807,mortar,immediate,French,mortier
+808,mortar,immediate,French (Anglo-Norman),mortier
+809,money,immediate,French (Anglo-Norman),monai
+810,mix,immediate,French,mixte
+811,mirror,immediate,French,miroir
+812,minister,immediate,French (Anglo-Norman),menestre
+813,millet,immediate,French,millet
+814,merchant,immediate,French (Anglo-Norman),marchand
+815,medicine,immediate,Old French,medicine
+816,measure,immediate,French (Anglo-Norman),mesurer
+817,mattress,immediate,French (Anglo-Norman),materas
+818,match,immediate,French,mèche
+819,mason,immediate,French (Anglo-Norman),macium
+820,marry,immediate,French,marier
+821,manner,immediate,French (Anglo-Norman),manere
+822,manioc,immediate,French,manioc
+823,"male, male",immediate,French (Anglo-Norman),male
+824,magic,immediate,French,magique
+825,machine,immediate,French,machine
+826,lizard,immediate,French (Anglo-Norman),lezard
+827,line,immediate,French,ligne
+828,letter,immediate,French,lettre
+829,lemon,immediate,French,limon
+830,latch,immediate,French (Anglo-Norman),lache
+831,large,immediate,French,large
+832,language,immediate,French,langage
+833,lamp,immediate,French,lampe
+834,lake,immediate,French,lac
+835,judgment,immediate,French,jugement
+836,judge,immediate,French,juge
+837,join,immediate,French,joindre
+838,jewel,immediate,French (Anglo-Norman),juel
+839,jealous,immediate,French,jaloux
+840,jaw,immediate,Old French,joe
+841,invite,immediate,French,inviter
+842,intention,immediate,French (Anglo-Norman),intencion
+843,injure,immediate,French,injurer
+844,in front of,immediate,French,front
+845,idol,immediate,French (Anglo-Norman),idele
+846,hut,immediate,French,hutte
+847,hurt,immediate,French (Anglo-Norman),hurter
+848,hour,immediate,French (Anglo-Norman),ure
+849,host,immediate,Old French,hoste
+850,heron,immediate,French (Anglo-Norman),hairon
+851,headband,immediate,French,bande
+852,"handkerchief, hankie",immediate,French (Anglo-Norman),courchief
+853,guard,immediate,French,garde
+854,grief,immediate,French (Anglo-Norman),grief
+855,grease,immediate,French,graisse
+856,grape,immediate,Old French,grappe
+857,grandson,immediate,French,grand
+859,grain,immediate,French,grain
+860,government,immediate,French,gouvernement
+861,govern,immediate,French,gouverner
+862,gourd,immediate,French,gourde
+863,goitre,immediate,French,goître
+864,glue,immediate,French,glu
+865,garden,immediate,French (Anglo-Norman),gardin
+866,fur,immediate,French,forrer
+867,fry,immediate,French,frire
+868,fruit,immediate,French,fruit
+869,fortress,immediate,French,forteresse
+870,forge,immediate,French,forge
+871,forest,immediate,French,forêt
+872,footprint,immediate,Middle French,prente
+873,flute,immediate,French,flahute
+874,flower,immediate,Old French,flour
+875,flour,immediate,French,fleur (de farine)
+876,flame,immediate,French,flamme
+877,finish,immediate,French,finir
+878,fine,immediate,French (Anglo-Norman),fin
+879,fig,immediate,French,figue
+880,fever,immediate,French (Anglo-Norman),fievre
+881,fence,immediate,French,défense
+882,female,immediate,French,femelle
+883,female,immediate,French (Anglo-Norman),femelle
+884,fault,immediate,French,faute
+885,farmer,immediate,French,fermier
+886,famine,immediate,French,faim
+887,falsity,immediate,French,falsete
+888,faithful,immediate,French (Anglo-Norman),fed
+889,fairy,immediate,French (Anglo-Norman),faierie
+890,face,immediate,French (Anglo-Norman),face
+891,envy,immediate,French,envie
+892,enter,immediate,French,entrer
+893,enemy,immediate,French,ennemi
+894,embrace,immediate,French,embrasser
+895,elephant,immediate,French,olifant
+896,election,immediate,French,election
+897,easy,immediate,French (Anglo-Norman),aisié
+898,eagle,immediate,French,aigle
+899,driving licence,immediate,French,licence
+900,dress,immediate,French,dresser
+901,doubt,immediate,French,doute
+902,doorpost,immediate,French,poste
+903,dolphin,immediate,Old French,delfin
+904,doctor,immediate,Middle French,docto(u)r
+905,divorce,immediate,French,divorce
+906,disease,immediate,Old French,disease
+907,disappear,immediate,French,désapparaître
+908,dinner,immediate,Old French,disner
+909,dig,immediate,French,diguer
+910,destroy,immediate,French (Anglo-Norman),destruire
+911,descendant,immediate,French,descendant
+912,deny,immediate,French,denier (now nier)
+913,defendant,immediate,Old French,deffendant
+914,defend,immediate,French,défendre
+915,defeat,immediate,Old French,defeit
+916,deceit,immediate,Old French,deceite
+917,debt,immediate,French,dette
+918,danger,immediate,French (Anglo-Norman),danger
+919,dance,immediate,French,danser
+920,damage,immediate,Old French,damage
+921,custom,immediate,Old French,custome
+922,cure,immediate,Middle French,curer
+923,cry,immediate,French (Anglo-Norman),crier
+924,crush,immediate,French (Anglo-Norman),croisir
+925,crouch,immediate,French (Anglo-Norman),crochir
+926,crocodile,immediate,French (Anglo-Norman),cocodrille
+927,crime,immediate,French,crime
+928,cover,immediate,French,couvrir
+929,cousin,immediate,French,cousin
+930,court,immediate,Old French,court
+931,country,immediate,French,contrée
+932,count,immediate,French,compter
+933,cotton,immediate,French,coton
+934,corpse,immediate,Middle French,cors
+935,corner,immediate,French (Anglo-Norman),corner
+936,cormorant,immediate,Old French,cormoran
+937,convict,immediate,French,convaincre
+938,condemn,immediate,French (Anglo-Norman),condemner
+939,conceive,immediate,French,concevoir
+940,command,immediate,French (Anglo-Norman),cumander
+941,colour,immediate,Old French,colour
+942,collect,immediate,Middle French,collecter
+943,collar,immediate,French,coler
+944,coin,immediate,French (Anglo-Norman),coin
+945,cock,immediate,French,coq
+946,coat,immediate,French,cote
+947,close,immediate,French,clore
+948,cloak,immediate,French,cloque
+949,clear,immediate,French (Anglo-Norman),cler
+950,city,immediate,French (Anglo-Norman),cite
+951,citizen,immediate,French (Anglo-Norman),citezein
+952,cigarette,immediate,French,cigarette
+953,chisel,immediate,French (Anglo-Norman),chisel
+954,chimney,immediate,French,cheminée
+955,chieftain,immediate,French (Anglo-Norman),chevetain
+956,chase,immediate,French (Anglo-Norman),chacier
+957,change,immediate,French,changer
+958,chair,immediate,Old French,chaire
+959,chain,immediate,French,chaîne
+960,certain,immediate,French,certain
+961,cease,immediate,French,cesser
+962,cave,immediate,French,cave
+963,cause,immediate,French,cause
+964,cattle,immediate,French (Anglo-Norman),catel
+965,catch,immediate,French (Anglo-Norman),cachier
+966,castle,immediate,French (Anglo-Norman),castel
+967,cassava,immediate,French,cassave
+968,carry,immediate,French (Anglo-Norman),carier
+969,carpet,immediate,Middle French,carpite
+970,carpenter,immediate,French (Anglo-Norman),carpentier
+971,caribou,immediate,French,caribou
+972,carcass,immediate,French (Anglo-Norman),carcois
+973,car,immediate,French (Anglo-Norman),carre
+974,captive,immediate,French,captif
+975,cape,immediate,French,cap
+976,calm,immediate,French,calme
+977,calendar,immediate,French,calendier
+978,button,immediate,French,boton
+979,brush,immediate,French,brosse
+980,brick,immediate,French,brique
+981,brave,immediate,French,brave
+982,branch,immediate,French,branche
+983,brake,immediate,French,braquer
+984,bracelet,immediate,French (Anglo-Norman),bracelet
+985,boundary,immediate,French (Anglo-Norman),"bodne, borne"
+986,bottle,immediate,Old French,botaille
+987,booty,immediate,French,butin
+988,boot,immediate,Old French,bote
+989,bomb,immediate,French,bombe
+990,boil,immediate,French (Anglo-Norman),boillir
+991,blue,immediate,Old French,blue
+992,blister,immediate,French (Anglo-Norman),blestre
+993,blanket,immediate,French (Anglo-Norman),blankete
+994,blame,immediate,French,blâme
+995,birth certificate,immediate,French,certificat
+996,bill,immediate,French (Anglo-Norman),bille
+997,betray,immediate,French (Anglo-Norman),trair
+998,beggar,immediate,French,Beguinard
+999,beautiful,immediate,French (Anglo-Norman),biaute
+1000,beak,immediate,French,bec
+1001,bay,immediate,French,baie
+1002,battle,immediate,French,bataille
+1003,battery,immediate,French (Anglo-Norman),batre
+1004,barter,immediate,French,barater
+1005,bank,immediate,French,banque
+1006,autumn,immediate,French,automne
+1007,aunt,immediate,Old French,aunte
+1008,attack,immediate,French,attaquer
+1009,astonished,immediate,French (Anglo-Norman),estoner
+1010,arson,immediate,French,arson
+1011,arrive,immediate,French,arriver
+1012,army,immediate,French,armée
+1013,armour,immediate,French (Anglo-Norman),armure
+1014,arch,immediate,French,arche
+1015,approach,immediate,French (Anglo-Norman),aprochier
+1016,announce,immediate,French (Anglo-Norman),anoncer
+1017,ancestor,immediate,French (Anglo-Norman),ancestre
+1018,ambush,immediate,Old French,embusche
+1019,allow,immediate,Old French,alouer
+1020,alcohol,immediate,French,alcool
+1021,air,immediate,French,air
+1022,age,immediate,French,âge
+1023,adultery,immediate,Old French,avouterie
+1024,admit,immediate,French,admettre
+1025,address,immediate,French,adresse
+1026,acquit,immediate,Old French,aquiter
+1027,accuse,immediate,French,accuser
+1028,(sting)ray,immediate,French,raie
+1029,wagon,immediate,Dutch,wagen
+1030,trade,immediate,Dutch,trade
+1031,tea,immediate,Dutch,thee
+1032,swamp,immediate,Dutch,swampen
+1033,split,immediate,Dutch,splitten
+1034,slip,immediate,Dutch,slippen
+1035,sling,immediate,Dutch,slinge
+1036,sledge,immediate,Dutch,slede
+1037,shore,immediate,Dutch,schôre
+1038,rub,immediate,Dutch,rubben
+1039,reef,immediate,Dutch,riffe
+1040,pill,immediate,Dutch,pille
+1041,mumble,immediate,Dutch,mummelen
+1042,mud,immediate,Dutch,modde
+1043,dig,earlier,Dutch,dijk
+1044,coffee,immediate,Dutch,koffie
+1045,clock,immediate,Dutch,klokke
+1046,brick,earlier,Dutch,bricke
+1047,brackish,immediate,Dutch,brak
+1048,blink,immediate,Dutch,blenken
+1049,bamboo,immediate,Dutch,bamboes
+1050,(good) luck,immediate,Dutch,(ge)luk
+1051,rich,immediate,Celtic,rīx
+1052,down,immediate,Celtic,dounon
+1053,carry,earlier,Celtic,karros
+1054,car,earlier,Celtic,karros
+1055,zero,earlier,Arabic,ṣifr
+1056,sugar,earlier,Arabic,sukkar
+1057,mosque,earlier,Arabic,masjid
+1058,mattress,earlier,Arabic,ţaraħa
+1059,lemon,earlier,Arabic,laimūn
+1060,cotton,earlier,Arabic,qutn
+1061,coffee,earlier,Arabic,qahwa
+1062,alcohol,earlier,Arabic,al-koħl
